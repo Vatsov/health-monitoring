@@ -1,0 +1,5 @@
+.tmp
+node_modules
+npm-debug.log
+nohup.out
+npm-debug.log.06e1a87c3b39a47d5fe6cc0da1d77cf2
